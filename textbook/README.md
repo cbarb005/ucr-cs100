@@ -1,5 +1,18 @@
-# lab instructions
+#About this textbook
 
+This textbook is structured so that each chapter in this text corresponds to a homework assignment, covering roughly about two weeks' time each. 
+
+Present in every chapter is a homework assignment and at least one lab. 
+In some chapters, there may be additional material organized into sections.
+Each section in a chapter covers a topic that will be useful in understanding and completing the assignments.
+The number of sections in each chapter will vary according to amount of new material that must be introduced for that chapter's homework assignment; some chapters may not even have additional sections at all!
+
+
+Each chapter will also have a FAQ section answering some of the most common
+questions about each homework.
+
+#Labs
+Every week, there will be a lab assignment to complete in your enrolled lab section.
 Each lab is worth 10 points towards your final grade.
 If you complete the work during lab, you will get full credit.
 If you do not finish during lab, you can show it to your TA during office hours for 8/10 points.
@@ -12,3 +25,7 @@ if you work alone, you will get a 0 on the lab.
 If there is an odd number of people in lab, there should be ONE group of three.
 You are not allowed to work with the same partner twice;
 every week you should be working with someone different.
+
+
+#Homework Assignments
+Every two weeks, there will be a homework assignment due, for a total of five assignments. If you have a question that isn't answered in the text or in the FAQ section, post an issue onto github. 
