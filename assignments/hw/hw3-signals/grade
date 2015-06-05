@@ -1,1 +1,18 @@
-/ 100
+35/ 100
+Last update Sat May 30 00:48:52 2015 -0700
+  -25: memory leak found in valgrind
+==35914== 7 bytes in 1 blocks are definitely lost in loss record 1 of 7 ==35914== definitely lost: 7 bytes in 1 blocks
+
+
+cd PATH: /20
+     (The prompt must change correctly for all of the cases for full credit)
+    [0/5] Change to a directory specified using an absolute path.
+
+
+^C signal: 0/40 (^C when running a child process should not stop the entire shell)
+
+extra credit 1: /30
+    [0/10] Catching ^Z and pausing
+    [0/10] fg
+    [0/10] bg
+
