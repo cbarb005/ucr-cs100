@@ -11,7 +11,7 @@ The number of sections in each chapter will vary according to amount of new mate
 Each chapter will also have a FAQ section answering some of the most common
 questions about each homework.
 
-#Labs
+##Labs
 Every week, there will be a lab assignment to complete in your enrolled lab section.
 Each lab is worth 10 points towards your final grade.
 If you complete the work during lab, you will get full credit.
@@ -27,5 +27,29 @@ You are not allowed to work with the same partner twice;
 every week you should be working with someone different.
 
 
-#Homework Assignments
-Every two weeks, there will be a homework assignment due, for a total of five assignments. If you have a question that isn't answered in the text or in the FAQ section, post an issue onto github. 
+##Homework Assignments
+Every two weeks, there will be a homework assignment due, for a total of five assignments. 
+It would be wise to start assignments as soon as possible, or at the very least start planning your approach.
+Most assignments offer extra credit for completing a bonus task, which can range in difficulty and point value. 
+Assignments are "turned in" by pushing your repository onto github by midnight of the due date.  
+If you have a question that isn't answered in the text or in the FAQ section, post an issue onto github. 
+
+##Other Resources
+The appendix holds a number of extra resources for your benefit.
+A brief overview of its contents is listed below:
+
+bestpractices - good programming principles 
+
+C++ - information on useful C++ concepts.
+
+casestudies - case studies for the IOCCC.
+
+cheatsheets -  guides on vim, bash, git and other tools.
+
+macros - using macros. 
+
+sort - using the sort function.
+
+tools - tutorials for bash, git, debugging programs, and more.
+
+videos - videos on various topics.
