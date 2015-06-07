@@ -3,7 +3,7 @@ In this chapter, you will learn [[[[   ]]]]
 
 ##Section 0 : I/O redirection
 
-###io.md
+* io.md
 
 
 ##lab4 - cp
