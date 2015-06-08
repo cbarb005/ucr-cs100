@@ -7,40 +7,40 @@ By the end of this chapter, you will use everything you've learned to implement 
 
 Learn how to manipulate files with file descriptors, using the open, close, read, and write syscalls
 
-* fd.md
+* **fd.md**
 	* open -  opens a file, returning a file descriptor for it.
 	* close - closes the file descriptor, freeing it.
 	* read - reads specified number of bytes from file descriptor. 
 	* write - writes specified number of bytes from file descriptor.
 
-* fd_code.cpp -  source code file for fd demo
+* **fd_code.cpp** -  source code file for fd demo
 
-* fileold -  example file for demo
+* **fileold** -  example file for demo
 
 ##Section 1: Using stat
 
 This section covers how to use stat and its variants, fstat and lstat, to get information on a file
 
-* stat.md - 
+* **stat.md** - 
 covers the syscall stat, which returns a stat struct with information about the file
 
 ##Section 2: Bitwise Operators
 
 Learn how bitwise operators allow you combine and pass in multiple flags.
 
-* bitwise-ops - 
+* **bitwise-ops** - 
 this section explains the logic behind bitwise operators and how it can be applied.
 
 
 ##Section 3 : Working with Directories
 Learn how to manipulate directories with the opendir, readdir, and closedir syscalls
 
-* dir.md
+* **dir.md**
 	* opendir - opens a directory, returning a DIR pointer
 	* readdir - using a DIR pointer, reads the opened directory stream
 	* closedir - closes the directory stream our DIR pointer is pointing towards.
 
-* dir_code.cpp -
+* **dir_code.cpp** -
 this file contains example source code for the dir demo
 
 
@@ -48,7 +48,7 @@ this file contains example source code for the dir demo
 
 This section covers the getcwd, getpwuid, and getgrgid system calls
 
-* getinfo.md
+* **getinfo.md**
 	* getcwd - gets the pathname of the current working directory
 	* getpwuid - returns a passwd struct with information about the user
 	* getgrgid - returns a group struct with information about the group
@@ -57,13 +57,13 @@ This section covers the getcwd, getpwuid, and getgrgid system calls
 ##Section 5 : Formatting Output
 This section covers multiple techniques for formatting your program's output.
 
-* README.md
+* **README.md**
 	* setbase - set numerical base between octal, decimal, and hexadecimal
 	* setw - adjust width of a column
 	* setfill - change fill character when using setw
 	* ANSI escape codes - bold, underline, and color text
 
-* ANSIfontUtils.h - 
+* **ANSIfontUtils.h** - 
 contains ready-to-use ANSI string codes.
 
 ##lab2 - fork
@@ -74,7 +74,7 @@ This lab covers correct use of the fork syscall, as well as creating and stoppin
 
 Learn how to use gdb, a debugging program, for large and complex software. 
 
-##HW1 - ls
+##hw1 - ls
 
 Create your own version of the `ls` command, implementing flag options and other parameters.
  
