@@ -13,15 +13,15 @@ Learn how to manipulate files with file descriptors, using the open, close, read
 	* read - reads specified number of bytes from file descriptor. 
 	* write - writes specified number of bytes from file descriptor.
 
-* fd_code.cpp: source code file for fd demo
+* fd_code.cpp -  source code file for fd demo
 
-* fileold: example file for demo
+* fileold -  example file for demo
 
 ##Section 1: Using stat
 
 This section covers how to use stat and its variants, fstat and lstat, to get information on a file
 
-* stat.md
+* stat.md - 
 Covers the syscall stat, which returns a stat struct with information about the file
 
 ##Section 2: Bitwise Operators
@@ -29,6 +29,7 @@ Covers the syscall stat, which returns a stat struct with information about the 
 Learn how bitwise operators allow you combine and pass in multiple flags.
 
 * bitwise-ops
+
 This section explains the logic behind bitwise operators and how it can be applied.
 
 
@@ -41,6 +42,7 @@ Learn how to manipulate directories with the opendir, readdir, and closedir sysc
 	* closedir - closes the directory stream our DIR pointer is pointing towards.
 
 * dir_code.cpp
+
 This file contains example source code for the dir demo
 
 
