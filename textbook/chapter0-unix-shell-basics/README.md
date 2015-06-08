@@ -5,8 +5,8 @@ This chapter covers the basic concepts and tools you will need in order to under
 ##Section 0 : system calls
 This section contains files which cover three basic system calls that will be used in the homework assignment, as well as an error-checking function. 
  
-* README.md 
-This file covers perror, an error-checking function for your system calls (a requirement throughout the course), as well as an overview of syscalls.
+* README.md -  
+this file covers perror, an error-checking function for your system calls (a requirement throughout the course), as well as an overview of syscalls.
 
 * exec.md 
 This file covers the following syscalls:
@@ -20,20 +20,20 @@ This file covers the following syscalls:
 ##Section 1 : parsing
 This section covers a couple of parsing tools that may be useful for your homework assignment
 
-*  strtok
-This folder covers the C library function ```strtok``` to tokenize, or break apart, a c-string.
+*  strtok - 
+this folder covers the C library function ```strtok``` to tokenize, or break apart, a c-string.
 
-*  Boost Tokenizer
-This folder covers this Boost library class that tokenizes strings, examples included.
+*  Boost Tokenizer - 
+this folder covers this Boost library class that tokenizes strings, examples included.
 
 ##Section 2 : Makefile
 This section covers how to write Makefiles.
 
-* Makefile
-This file houses an example Makefile.
+* Makefile - 
+this file houses an example Makefile.
 
-* make
-This folder contains a tutorial on using ```make``` to compile and install programs easily with Makefiles, as well as numerous examples.
+* make - 
+this folder contains a tutorial on using ```make``` to compile and install programs easily with Makefiles, as well as numerous examples.
 
 ##lab0 - vim
 
