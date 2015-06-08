@@ -1,12 +1,11 @@
-#Chapter 1: Unix Shell Basics
+#Chapter 0: Unix Shell Basics
 
 This chapter covers the basic concepts and tools you will need in order to understand how to write a simple command line shell.  
 
 ##Section 0 : system calls
 This section contains files which cover three basic system calls that will be used in the homework assignment, as well as an error-checking function. 
  
-* **README.md** -  
-this file covers perror, an error-checking function for your system calls (a requirement throughout the course), as well as an overview of syscalls.
+* **README.md** - this file covers perror, an error-checking function for your system calls (a requirement throughout the course), as well as an overview of syscalls.
 
 * **exec.md** 
 This file covers the following syscalls:
