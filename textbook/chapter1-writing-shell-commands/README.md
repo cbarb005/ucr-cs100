@@ -22,15 +22,14 @@ Learn how to manipulate files with file descriptors, using the open, close, read
 This section covers how to use stat and its variants, fstat and lstat, to get information on a file
 
 * stat.md - 
-Covers the syscall stat, which returns a stat struct with information about the file
+covers the syscall stat, which returns a stat struct with information about the file
 
 ##Section 2: Bitwise Operators
 
 Learn how bitwise operators allow you combine and pass in multiple flags.
 
-* bitwise-ops
-
-This section explains the logic behind bitwise operators and how it can be applied.
+* bitwise-ops - 
+this section explains the logic behind bitwise operators and how it can be applied.
 
 
 ##Section 3 : Working with Directories
@@ -41,9 +40,8 @@ Learn how to manipulate directories with the opendir, readdir, and closedir sysc
 	* readdir - using a DIR pointer, reads the opened directory stream
 	* closedir - closes the directory stream our DIR pointer is pointing towards.
 
-* dir_code.cpp
-
-This file contains example source code for the dir demo
+* dir_code.cpp -
+this file contains example source code for the dir demo
 
 
 ##Section 4: Getting Information
@@ -65,8 +63,8 @@ This section covers multiple techniques for formatting your program's output.
 	* setfill - change fill character when using setw
 	* ANSI escape codes - bold, underline, and color text
 
-* ANSIfontUtils.h
-Contains ready-to-use ANSI string codes.
+* ANSIfontUtils.h - 
+contains ready-to-use ANSI string codes.
 
 ##lab2 - fork
 
