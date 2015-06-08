@@ -4,7 +4,7 @@ In addition to this, you will use the skills you've learned so far to implement 
 
 ##Section 0 : I/O redirection 
 This section covers how to use the `dup` and `pipe` functions.
-* io.md
+* **io.md**
 	* dup - duplicates a file descriptor and returns the new copy.
 	* pipe - creates a pipe that can be written to and read from by other processes.
 
