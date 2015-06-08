@@ -1,2 +1,17 @@
-/ 100
+50/ 100
+Last update Sat May 2 00:07:30 2015 -0700
+
+Error checking for syscalls
+
+file: [src/ls.cpp] -5
+
+
+
+-5: file list doesn't match ls order
+
+-15: bin/ls.*-R flag does not go in subfolders 
+
+
+-25: file/folder parameter doesn't work
+
 
