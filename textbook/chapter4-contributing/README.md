@@ -8,4 +8,4 @@ This lab covers how to send spam, using SMTP features in unexpected ways to spoo
 
 ##HW4 - contributing
 
-In this homework assignment, which you will begin around the second half of the quarter, you will find a way to contribute to the open source community, and work on this contribution until the end of the course.  
+In this homework assignment, which you will begin around the second half of the quarter, you will find a way to contribute to the open source community, working on this contribution until the end of the course.  

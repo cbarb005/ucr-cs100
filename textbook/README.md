@@ -38,18 +38,18 @@ If you have a question that isn't answered in the text or in the FAQ section, po
 The appendix holds a number of extra resources for your benefit.
 A brief overview of its contents is listed below:
 
-bestpractices - good programming principles 
+* bestpractices - good programming principles 
 
-C++ - information on useful C++ concepts.
+* C++ - information on useful C++ concepts.
 
-casestudies - case studies for the IOCCC.
+* casestudies - case studies for the IOCCC.
 
-cheatsheets -  guides on vim, bash, git and other tools.
+* cheatsheets -  guides on vim, bash, git, gdb, and syscallss.
 
-macros - using macros. 
+* macros - using macros. 
 
-sort - using the sort function.
+* sort - using the sort function.
 
-tools - tutorials for bash, git, debugging programs, and more.
+* tools - tutorials for bash, git, debugging programs, and more.
 
-videos - videos on various topics.
+* videos - videos on various topics.
