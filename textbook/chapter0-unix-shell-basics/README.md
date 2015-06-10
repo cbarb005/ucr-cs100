@@ -5,9 +5,9 @@ This chapter covers the basic concepts and tools you will need in order to under
 ##Section 0 : system calls
 This section contains files which cover three basic system calls that will be used in the homework assignment, as well as an error-checking function. 
  
-* **README.md** - this file covers perror, an error-checking function for your system calls (a requirement throughout the course), as well as an overview of syscalls.
+* [README.md](./section0-system-calls/README.md) - this file covers perror, an error-checking function for your system calls (a requirement throughout the course), as well as an overview of syscalls.
 
-* **exec.md** 
+* [exec.md](./section0-system-calls/exec.md) 
 This file covers the following syscalls:
 
 	* fork - creates copies of the parent process, or "child" processes, necessary to execute commands from the command line.
@@ -34,7 +34,7 @@ this file houses an example Makefile.
 * **make** - 
 this folder contains a tutorial on using ```make``` to compile and install programs easily with Makefiles, as well as numerous examples.
 
-##lab0 - vim
+##lab0 - [vim](./lab0-vim)
 
 Introduces Vim, the text editor of choice for the class, and how to navigate it. Learn how to configure your .vimrc file to your liking. 
 
