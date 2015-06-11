@@ -64,8 +64,13 @@ A brief overview of each folder's contents is listed below:
 	* syscalls - quick reference sheet for syscalls.
 	
 * videos - videos on various topics.
+
 	* function calls - videos on various useful functions.
+
 	* gdb - using gdb to debug.
+
 	* syscalls (cartoon) - quick and easy explanation for syscalls.
+
 	* syscalls (detailed) - in-depth syscalls videos.
+
 	* vim - videos on some more advanced vim features.

@@ -27,15 +27,6 @@ Listed below are the files and folders contained in each appendix section
 * README.md (Guide to hamano.c)
 * myhamano.c
 
-
-##cheatsheets
-
-* bash-cheatsheet.md
-* gdb-cheatsheet.md
-* git-cheatsheet.md
-* syscall-cheatsheet.tex
-* vim-cheatsheet.tex
-
 ##macros
 
 * README.md (Macro Basics)
@@ -54,11 +45,3 @@ Listed below are the files and folders contained in each appendix section
 * valgrind
 * xmonad
 
-##videos
-
-* GDB.md
-* functioncalls.md
-* syscalls-cartoon.md
-* syscalls-detailed.md
-* test_gdb.cpp
-* vim.md
