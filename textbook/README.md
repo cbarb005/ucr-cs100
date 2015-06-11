@@ -35,21 +35,37 @@ Assignments are "turned in" by pushing your repository onto github by midnight o
 If you have a question that isn't answered in the text or in the FAQ section, post an issue onto github. 
 
 ##Other Resources
-The appendix holds a number of extra resources for your benefit.
-A brief overview of its contents is listed below:
+There is a number of extra resources for your benefit in the appendix folders, as well as cheatsheets and videos.
+A brief overview of each folder's contents is listed below:
+* Appendix
 
-* bestpractices - good programming principles 
+	* bestpractices - good programming principles 
 
-* C++ - information on useful C++ concepts.
+	* C++ - information on useful C++ concepts.
 
-* casestudies - case studies for the IOCCC.
+	* casestudies - case studies for the IOCCC.
 
-* cheatsheets -  guides on vim, bash, git, gdb, and syscallss.
+	* macros - using macros. 
 
-* macros - using macros. 
+	* sort - using the sort function.
 
-* sort - using the sort function.
+	* tools - tutorials for bash, git, debugging programs, and more.
 
-* tools - tutorials for bash, git, debugging programs, and more.
+* cheatsheets 
 
+	* vim - quick reference sheet for commands.
+	
+	* bash - guide for useful bash shell commands.
+	
+	* git - useful git commands.
+	
+	* gdb - quick guide on gdb usage.
+	
+	* syscalls - quick reference sheet for syscalls.
+	
 * videos - videos on various topics.
+	* function calls - videos on various useful functions.
+	* gdb - using gdb to debug.
+	* syscalls (cartoon) - quick and easy explanation for syscalls.
+	* syscalls (detailed) - in-depth syscalls videos.
+	* vim - videos on some more advanced vim features.
