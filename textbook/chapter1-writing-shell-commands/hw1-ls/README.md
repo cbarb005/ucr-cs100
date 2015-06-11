@@ -8,10 +8,10 @@ Notice that the GNU `ls` command handles files and folders differently, and you 
 For a refresher on how to use the `ls` command effectively, you can watch [this video tutorial](https://izbicki.me/blog/videoguide-for-github-vim-bash.html#ls).
 
 To implement `ls`, you must use the `opendir`, `closedir`, `readdir` and `stat` syscalls.
-For details on the use of these functions, visit their man pages and the [syscalls tutorial](../../../textbook/assignment-help/syscalls).
+For details on the use of these functions, visit their man pages and the [syscalls tutorial](../section1-using-stat/stat.md).
 
 Previous cs100 students have written up code that reads the files in the current working directory, with documentation explaining the process. 
-The code may be found [here](../../../textbook/assignment-help/syscalls/dir_code.cpp), within the [syscalls tutorial](../../../textbook/assignment-help/syscalls).
+The code may be found [here](../section3-working-with-directories/dir_code.cpp), along with the [tutorial](../section3-working-with-directories/dir.md).
 
 ### submission instructions
 
@@ -88,9 +88,11 @@ So if you have a hidden directory, it should be displayed as blue text on top of
 
 Here is a complete list of resources created by previous cs100 students that might help with this assignment:
 
-* [how to use syscalls](../../../textbook/assignment-help/syscalls)
+* [how to use stat](../section1-using-stat/stat.md)
 
-* [STL Map](../../../textbook/C++/stl-map)
+* [how to use system calls for directories](../section3-working-with-directories)
+
+* [STL Map](../../appendix/C++/stl-map)
 
 * video: [how to use the `ls` command](https://izbicki.me/blog/videoguide-for-github-vim-bash.html#ls).
 
