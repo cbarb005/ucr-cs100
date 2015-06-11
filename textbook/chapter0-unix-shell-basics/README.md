@@ -5,16 +5,16 @@ This chapter covers the basic concepts and tools you will need in order to under
 ##Section 0 : system calls
 This section contains files which cover three basic system calls that will be used in the homework assignment, as well as an error-checking function. 
  
-* [README.md](./section0-system-calls/README.md) - this file covers perror, an error-checking function for your system calls (a requirement throughout the course), as well as an overview of syscalls.
+* [README.md](./section0-system-calls/README.md) - this file covers `perror`, an error-checking function for your system calls (a requirement throughout the course), as well as an overview of syscalls.
 
 * [exec.md](./section0-system-calls/exec.md) -  
 This file covers the following syscalls:
 
-	* fork - creates copies of the parent process, or "child" processes, necessary to execute commands from the command line.
+	* `fork` - creates copies of the parent process, or "child" processes, necessary to execute commands from the command line.
 
-	* wait - allows program to wait for child processes to finish executing before continuing.
+	* `wait` - allows program to wait for child processes to finish executing before continuing.
 
-	* exec -  executes executables. 
+	* `exec` -  executes executables. 
 
 ##Section 1 : parsing
 This section covers a couple of parsing tools that may be useful for your homework assignment

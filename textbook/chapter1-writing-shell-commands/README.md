@@ -57,13 +57,13 @@ This section covers the `getcwd`, `getpwuid`, and `getgrgid` system calls
 ##Section 5 : [Formatting Output](./section5-formatting-output)
 This section covers multiple techniques for formatting your program's output.
 
-* [README.md](./section5-formatting-output/README.md)
+* [README.md](./section5-formatting-output/output-formatting-in-c++/README.md)
 	* `setbase` - set numerical base between octal, decimal, and hexadecimal
 	* `setw` - adjust width of a column
 	* `setfill` - change fill character when using setw
 	* ANSI escape codes - bold, underline, and color text
 
-* [ANSIfontUtils.h](./section5-formatting-output/ANSIfontUtils.h) - 
+* [ANSIfontUtils.h](./section5-formatting-output/output-formatting-in-c++/ANSIfontUtils.h) - 
 contains ready-to-use ANSI string codes.
 
 ##lab2 - [fork](./lab2-fork)
