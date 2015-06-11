@@ -33,7 +33,7 @@ We've already seen in class how to use the `strace` command to figure out what s
 The `strace` can also tell you how much time you spend in each syscall.
 You should use `strace` in this way on your `cp` program.
 
-You can find instructions on using `strace` in the writeup located at [../../appendix/tools/bash/strace/](../../appendix/tools/bash/strace/).
+You can find instructions on using `strace` in the writeup located at [here.](../../appendix/tools/bash/strace/).
 
 
 ### deliverables
