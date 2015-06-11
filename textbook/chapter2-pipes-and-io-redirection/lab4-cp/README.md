@@ -33,7 +33,7 @@ We've already seen in class how to use the `strace` command to figure out what s
 The `strace` can also tell you how much time you spend in each syscall.
 You should use `strace` in this way on your `cp` program.
 
-You can find instructions on using `strace` in the writeup located at [/textbook/tools/bash/strace/](/textbook/tools/bash/strace/).
+You can find instructions on using `strace` in the writeup located at [../../appendix/tools/bash/strace/](../../appendix/tools/bash/strace/).
 
 
 ### deliverables
@@ -47,5 +47,5 @@ Read the man pages on `open()`, `read()`, `write()`, and `close()` for further i
 
 Here is a complete list of resources created by previous cs100 students that might help with this lab:
 
-* [Syscalls on file descriptors](../../../textbook/assignment-help/syscalls/fd.md)
-* [Bitwise Operators](../../../textbook/assignment-help/bitwise-ops/README.md)
+* [Syscalls on file descriptors](../../chapter1-writing-shell-commands/section0-file-descriptors/fd.md)
+* [Bitwise Operators](../../chapter1-writing-shell-commands/section2-bitwise-operators/bitwise-ops/README.md)
