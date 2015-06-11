@@ -66,6 +66,15 @@ This section covers multiple techniques for formatting your program's output.
 * [ANSIfontUtils.h](./section5-formatting-output/output-formatting-in-c++/ANSIfontUtils.h) - 
 contains ready-to-use ANSI string codes.
 
+##Section 6: [Valgrind](./section6-valgrind)
+This section covers valgrind, a memory-checking tool you'll be expected to use from now on.
+
+* [README.md](./section6-valgrind/README.md) - tutorial on how to use valgrind to detect memory leaks and errors.
+
+* [example1.cpp](./section6-valgrind/example1.cpp) - this is an example file for the above valgrind tutorial.
+
+* [example2.cpp](./section6-valgrind/example2.cpp) - this is another valgrind example file.
+
 ##lab2 - [fork](./lab2-fork)
 
 This lab covers correct use of the `fork` syscall, as well as creating and stopping fork bombs.  

@@ -35,7 +35,7 @@ Here are some past assignments and some suggestions for extending their work:
 * [Rashid Goshtasbi and Kyler Rynear's video tutorials](https://izbicki.me/blog/videoguide-for-github-vim-bash.html).
 A good topic would be to provide similar video tutorials for another aspect of this class.
 
-* [William Coates's `valgrind` tutorial](../../../textbook/tools/valgrind).
+* [William Coates's `valgrind` tutorial](../../chapter1-writing-shell-commands/section6-valgrind).
 A good topic would be to extend this tutorial to cover more of valgrind's features.
 A similar tutorial for `gdb` or `cppchecker` (or another tool) would also be nice.
 
@@ -46,10 +46,10 @@ If you choose a topic like this, make sure it stays nice and cohesive and is not
 * [Antoine Guerrero's writeup of how he hacked git to change his grades in this course](https://github.com/aguerrero/Faking-Git-Commits).
 If you have a similarly engaging story about some cool programming trick you've done, that would make a good writeup.
 
-* [Brunna Amorim's git cheatsheet](../../../cheatsheets/git-cheatsheet.md).
+* [Brunna Amorim's git cheatsheet](../../cheatsheets/git-cheatsheet.md).
 A similar cheatsheet for `gdb` or `bash` would make a decent topic.
 
-* [Kevin Nguyen clarified lab 1 by adding pictures to the README file](../../lab/lab1-git).
+* [Kevin Nguyen clarified lab 1 by adding pictures to the README file](../../chapter0-unix-shell-basics/lab1-git).
 You can run `git blame` on the file to see exactly what his contributions were.
 If one of the labs/assignments was confusing to you, you could extend it in a similar manner.
 You will have to work closely with me to make sure the changes are appropriate.
