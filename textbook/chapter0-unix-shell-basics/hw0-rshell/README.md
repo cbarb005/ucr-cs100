@@ -37,7 +37,7 @@ $ ls -a; echo hello && mkdir test || echo world; git status
 
 3. Execute the command.
 This will require using the syscalls `fork`, `execvp`, and `waitpid`.
-Previous cs100 students created a [written tutorial](../../../textbook/assignment-help/syscalls)
+Previous cs100 students created a [written tutorial](../section0-system-calls)
 and two video tutorials
 ( [a fun cartoon tutorial](http://youtu.be/2c4ow5RoKA8)
 ; [more serious explanation](https://www.youtube.com/watch?v=xVSPv-9x3gk)).
@@ -59,7 +59,8 @@ You'll be adding this feature in a later homework.
 Pay careful attention to how you parse the command string the user enters.
 There are many ways to mess this up and introduce bugs into your program.
 You will be adding more parsing features in future assignments, so it will make your life much easier if you do it right the first time!
-I recommend using either the `strtok` function from the C standard libraries (see [this tutorial](../../../textbook/assignment-help/strtok/README.md) by former cs100 student Dave MacPherson) or the `Tokenizer` class provided in the boost library (see [this tutorial](../../../textbook/assignment-help/BoostTokenizer/README.md) by former cs100 students Chelsey Calingo and Virgilio Garcia).
+I recommend using either the `strtok` function from the C standard libraries (see [this tutorial](../section1-parsing/strtok/README.md) by former cs100 student Dave MacPherson) 
+or the `Tokenizer` class provided in the boost library (see [this tutorial](../section1-parsing/BoostTokenizer/README.md) by former cs100 students Chelsey Calingo and Virgilio Garcia).
 Students often don't do this section of the assignment well and end up having to redo all of assignment one in order to complete the future assignments.
 
 ### submission instructions
@@ -111,8 +112,8 @@ You must have a `README.md` file.
 This file should briefly summarize your project.
 In particular, it must include a list of known bugs.
 If you do not have any known bugs, then you probably have not sufficiently tested your code!
-For more details on how to write a good README file, see [this tutorial](../../../textbook/bestpractices/WritingREADMEs/README.md) by former cs100 student Alexander Ortiz.
-You must use [the Markdown formatting language](../../../textbook/bestpractices/WritingREADMEs/Markdown.md) when writing your README.
+For more details on how to write a good README file, see [this tutorial](../../appendix/bestpractices/WritingREADMEs/README.md) by former cs100 student Alexander Ortiz.
+You must use [the Markdown formatting language](../../appendix/bestpractices/WritingREADMEs/Markdown.md) when writing your README.
 
 You must have a directory called `tests`.
 The directory will contain a file called `exec.script` that contains all of the test cases you tried.
@@ -271,7 +272,7 @@ If anything is unclear about this assignment, remember that you can get extra cr
 
 Here is a complete list of resources created by previous cs100 students that might help with this assignment:
 
-* [written tutorial on syscalls](../../../textbook/assignment-help/syscalls/exec.md)
+* [written tutorial on syscalls](../section0-system-calls/exec.md)
 
 * video: [a fun cartoon tutorial](http://youtu.be/2c4ow5RoKA8)
 
@@ -279,8 +280,8 @@ Here is a complete list of resources created by previous cs100 students that mig
 
 * video: [using bash, github, vim, and syscalls](https://izbicki.me/blog/videoguide-for-github-vim-bash.html)
 
-* [writing README files](../../../textbook/bestpractices/WritingREADMEs/README.md)
+* [writing README files](../../appendix/bestpractices/WritingREADMEs/README.md)
 
-* [the Markdown formatting language](../../../textbook/bestpractices/WritingREADMEs/Markdown.md)
+* [the Markdown formatting language](../../appendix/bestpractices/WritingREADMEs/Markdown.md)
 
-* [writing Makefiles](../../../textbook/tools/make/README.md)
+* [writing Makefiles](../section2-make/make/README.md)
